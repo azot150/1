@@ -1,0 +1,8 @@
+admin_id = "1437775058"
+admins_id = ["1437775058"]
+
+TOKEN = "1464338295:AAEpSAjxUh4sLCOMqjk3Sj9U9-6GeKnOgNo"
+HOST = "45.91.201.14"
+PORT = "5953"
+USER = "root"
+PASSWORD = "9F9iyZs3TPZJ"
